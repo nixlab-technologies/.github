@@ -1,7 +1,7 @@
 # NixLab Technologies
 
-कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
-मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि॥
+**कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।**
+**मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि॥**
 
 NixLab Technologies is a software development company based in the India.
 
